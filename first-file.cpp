@@ -5,6 +5,6 @@ int main()
 {
     int n;
     cin>>n;
-    cout<<n;
+    cout<<"The number: "<<n;
     return 0;
 }
